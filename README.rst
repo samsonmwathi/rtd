@@ -9,3 +9,5 @@ Read the tutorial here:
 https://docs.readthedocs.io/en/stable/tutorial/
 
 Lumache hosts its documentation on Read the Docs.
+
+Which can easily recompile and build code
